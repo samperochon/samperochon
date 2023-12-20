@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my PhD projects, partly at Duke University with Pr. Guillermo Sapiro, and partly at the Ecole Normale Superieure Paris-Saclay with Pr. Laurent Oudre. 
+  
+
 <!--
 **samperochon/samperochon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
